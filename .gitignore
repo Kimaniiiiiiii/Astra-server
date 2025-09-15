@@ -1,0 +1,9 @@
+# Ignore all files in media except the placeholder
+media/*
+!media/.gitkeep
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
